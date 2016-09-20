@@ -8,7 +8,7 @@ eureka:
       
 foo: from-default-foo
 democonfigclient:
-  foo: bar
+  foo: bar...
   bar: qix
   baz: biz
   
